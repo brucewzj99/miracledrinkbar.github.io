@@ -79,6 +79,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline-offset: none;
 }
 /* Navigation */
+
 .navbar .navbar-nav {
 	display: inline-block;
 	float: none;
@@ -163,6 +164,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border: 2px solid #d43031;
 	background-color: #d43031;
 }
+
 /* Header Section */
 .intro {
 	display: table;
@@ -288,7 +290,6 @@ header .intro-text {
 }
 #restaurant-menu .menu-item-description {
 	font-size: 15px;
-	width: 85%;
 }
 #restaurant-menu .menu-item-price {
 	float: right;
