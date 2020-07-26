@@ -54,7 +54,7 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #8eb640;
+	color: #d43031;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -280,6 +280,7 @@ header .intro-text {
 }
 #restaurant-menu .menu-item {
 	margin: 45px 0;
+	margin-left: 4em;
 	font-size: 18px;
 }
 #restaurant-menu .menu-item-name {
@@ -299,6 +300,60 @@ header .intro-text {
 }
 strike{
 	color:red;
+}
+.reference{
+	color: #444;
+}
+/* Menu Section */
+#faq-menu {
+	padding: 100px 0 60px 0;
+}
+#faq-menu img {
+	width: 300px;
+	box-shadow: 15px 0 #a7c44c;
+}
+#faq-menu h3 {
+	padding: 10px 0;
+	text-transform: uppercase;
+}
+#faq-menu .menu-section hr {
+	margin: 0 auto;
+}
+#faq-menu .menu-section {
+	margin: 0 20px 80px;
+}
+#faq-menu .menu-section-title {
+	font-size: 32px;
+	display: block;
+	font-weight: 400;
+	color: #444;
+	margin: 20px 0;
+	text-align: center;
+}
+#faq-menu .menu-item {
+	margin: 45px 0;
+	font-size: 18px;
+}
+#faq-menu .menu-item-name {
+	font-weight: 400;
+	font-size: 20px;
+	color: #444;
+	margin-bottom: 10px;
+}
+#faq-menu .menu-item-description {
+	font-size: 15px;
+}
+#faq-menu .menu-item-price {
+	float: right;
+	font-weight: 400;
+	color: #555;
+	margin-top: -36px;
+}
+strike{
+	color:red;
+}
+.reference{
+	color: #444;
 }
 /* Gallery Section */
 #gallery {
