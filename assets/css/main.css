@@ -650,6 +650,11 @@ input, select, textarea {
 		position: relative;
 		width:55%;
 	}
+	
+/* Contact link */
+	.contactlink{
+		 text-decoration: none;
+	}
 /* Qna Answer */
 
 	.qna {
