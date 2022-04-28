@@ -71,7 +71,10 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+/* My CSS */
+.subtitle{
+	font-weight:bold;
+}
 /* Basic */
 
 	@-ms-viewport {
